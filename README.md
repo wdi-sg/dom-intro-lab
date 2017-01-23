@@ -1,4 +1,4 @@
-# jQuery Quiz
+# DOM Manipulator Quiz
 
 The instructions for this lab are in index.html
 
